@@ -28,7 +28,7 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=aajax1211&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=aajax1211&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
 
 
@@ -46,17 +46,6 @@ JSON         24 mins         ░░░░░░░░░░░░░░░░░
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aajax1211)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aajax1211)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-behl-21aa84169/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aajax1211)
 
----
-
-### 👨‍💻 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Create an Amazing GitHub Profile README](#)
-- [Getting Started with React](#)
-- [Python Tips and Tricks](#)
-<!-- BLOG-POST-LIST:END -->
-
-![Profile Views](https://komarev.com/ghpvs/?username=aajax1211&color=brightgreen)
