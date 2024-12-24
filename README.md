@@ -29,13 +29,78 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 71 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-JavaScript   10 hrs 41 mins  █████████████░░░░░░░░░░   52.25 % 
-Python       5 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░   24.59 % 
-HTML         2 hrs 50 mins   ███░░░░░░░░░░░░░░░░░░░░   13.89 % 
-CSS          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░   5.78 % 
-JSON         24 mins         ░░░░░░░░░░░░░░░░░░░░░░░   2.00 %
+🌞 Morning                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+🌆 Daytime                33 commits          █████████░░░░░░░░░░░░░░░░   34.38 % 
+🌃 Evening                28 commits          ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌙 Night                  33 commits          █████████░░░░░░░░░░░░░░░░   34.38 % 
 ```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Tuesday                  11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Wednesday                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Thursday                 7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Friday                   21 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Saturday                 27 commits          ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
+HTML                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+PHP                      3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/aajax1211/aajax1211/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/12/2024 00:54:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Connect with me
