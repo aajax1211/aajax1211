@@ -29,9 +29,7 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,7 +98,7 @@ CSS                      2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aajax1211/aajax1211/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2024 00:54:19 UTC
+ Last Updated on 25/12/2024 00:53:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Connect with me
