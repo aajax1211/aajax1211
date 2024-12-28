@@ -37,8 +37,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 72 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -100,7 +98,7 @@ CSS                      2 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aajax1211/aajax1211/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 00:54:12 UTC
+ Last Updated on 28/12/2024 00:52:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Connect with me
