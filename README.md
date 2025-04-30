@@ -38,8 +38,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 161 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -102,7 +100,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aajax1211/aajax1211/main/assets/bar_graph.png)
 
 
- Last Updated on 29/04/2025 01:00:57 UTC
+ Last Updated on 30/04/2025 01:01:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Connect with me
