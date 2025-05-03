@@ -30,13 +30,13 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 163 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aajax1211/aajax1211/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 01:01:40 UTC
+ Last Updated on 03/05/2025 00:59:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Connect with me
