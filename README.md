@@ -34,18 +34,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 168 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -64,25 +52,6 @@ Thursday                 32 commits          █░░░░░░░░░░�
 Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 Saturday                 159 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
 Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
