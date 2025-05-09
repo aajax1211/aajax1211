@@ -32,26 +32,55 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-🌆 Daytime                127 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-🌃 Evening                208 commits         █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌙 Night                  166 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+🌞 Morning                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+🌆 Daytime                128 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+🌃 Evening                208 commits         █████████░░░░░░░░░░░░░░░░   37.28 % 
+🌙 Night                  166 commits         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   126 commits         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-Tuesday                  144 commits         ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-Wednesday                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Thursday                 32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Saturday                 159 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Monday                   126 commits         ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Tuesday                  144 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Wednesday                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Thursday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Friday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Saturday                 159 commits         ███████░░░░░░░░░░░░░░░░░░   28.49 % 
 Sunday                   15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +100,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aajax1211/aajax1211/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 01:02:45 UTC
+ Last Updated on 09/05/2025 01:01:58 UTC
 <!--END_SECTION:waka-->
 
 ## 🤝 Connect with me
